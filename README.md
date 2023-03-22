@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MxGlitchWitch (they/them/she/her)
+- 👋 Hi, I’m @DSpellman (they/them/she/her)
 - 👀 I’m interested in expanding my skills, breaking into software engineering, fiberarts and all the accompaying math, illustration, and games.
 - 🌱 I’m currently learning algorithms and data structures. 
 - 💞️ I’m looking to collaborate on some hobby projects to build skills.
